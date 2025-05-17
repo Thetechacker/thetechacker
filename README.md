@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thetechacker" alt="thetechacker" /></a> </p>
 
-- 🔭 I’m currently working on **tsubsys, cputhermals_node, NotificationServer**
+- 🔭 I’m currently working on **cputhermals_node, WebGameController**
 
 - 🌱 I’m currently learning **about Node.js C++ Addons**
 
